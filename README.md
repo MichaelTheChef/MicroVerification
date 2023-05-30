@@ -1,4 +1,4 @@
-# MicroVerification V2
+# MicroVerification V2 `Version 2.0`
 Intermediate Verification for Minecraft Servers but its a brand new revised version
 
 # Setup Guide
