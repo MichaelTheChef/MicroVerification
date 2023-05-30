@@ -12,7 +12,7 @@ import java.util.*
 
 class MicroVerificationV2: JavaPlugin(), Listener, CommandExecutor {
 
-    private val verificationPrefix = "§3ᴍɪᴄʀᴏ§aᴠᴇʀɪꜰɪᴄᴀᴛɪᴏɴ §6ᴠ2"; private val verificationCodes = mutableMapOf<UUID, String>()
+    private val verificationPrefix = "§3ᴍɪᴄʀᴏ§aᴠᴇʀɪꜰɪᴄᴀᴛɪᴏɴ §6ᴠ2 §8•"; private val verificationCodes = mutableMapOf<UUID, String>()
 
     override fun onEnable() { server.pluginManager.registerEvents(this, this); getCommand("verify")!!.setExecutor(this) }
 
