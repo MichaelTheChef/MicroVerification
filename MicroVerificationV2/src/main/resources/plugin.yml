@@ -1,0 +1,7 @@
+name: MicroVerificationV2
+version: '${project.version}'
+main: me.mio.microverificationv2.MicroVerificationV2
+api-version: 1.17
+commands:
+  verify:
+    description: Brand new player verification V2
