@@ -7,6 +7,6 @@ Intermediate Verification for Minecraft Servers but its a brand new revised vers
 - `/verify` to get started with your verification!
 
 # Minecraft Requirements
-- Required Version: `1.17+`
+- Required Version: `1.17.1` (*You can also change the version in the `pom.xml` file*)
 - Required Server Platform: `Paper`
 - Required Dependencies: `None`
